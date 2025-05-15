@@ -1,0 +1,2 @@
+Conocimientos Previos:
+-Estructuras básicas de programación.
