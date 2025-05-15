@@ -1,2 +1,3 @@
 Primer objetivo: Obtener conocimientos que me permitan trabajar de 'Full stack'
 Segundo objetivo: Pulir mis habilidades de programación en servidor
+Tercer objetivo: Aprender metodologías para trabajar eficientemente en un equipo de trabajo.
