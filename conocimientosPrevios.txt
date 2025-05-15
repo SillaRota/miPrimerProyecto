@@ -1,0 +1,4 @@
+Conocimientos Previos:
+-Estructuras básicas de programación.
+-Diseño de software básico
+-Programación en arduino
